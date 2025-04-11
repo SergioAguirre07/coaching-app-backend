@@ -1,0 +1,1 @@
+// ScriptureBank model
